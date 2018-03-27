@@ -4,7 +4,6 @@
 - iOS : 2010 ~ now
 	- exception : iOS 7.0 ~ 9.0
 	- swift : september 2017 ~ now
-	- objective-c : other period
 	- I started development with iOS 3.0.
 - android : 2011, 2014
 - cocos-2dx : 2012
@@ -12,7 +11,7 @@
 - automatic control(IOT? Home Automation? Ubiquitous? What!? ) : 2008 ~ 2010 
 	- www.crestron.com : crestron korea, Senior Engineer
 	- I wanted to be a mobile developer, so I left Crestron.
-- c# : etc..
+- c#, springframework, mongodb, etc .. : a little..
 
 > portfolio
 
