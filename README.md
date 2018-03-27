@@ -5,6 +5,7 @@
 	- exception : iOS 7.0 ~ 9.0
 	- swift : september 2017 ~ now
 	- objective-c : other period
+	- I started development with iOS 3.0.
 - android : 2011, 2014
 - cocos-2dx : 2012
 - asp, ASP.NET, MSSQL : 2014 ~ 2016
