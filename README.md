@@ -6,7 +6,7 @@
 	- swift : september 2017 ~ now
 	- I started development with iOS 3.0.
 - android : 2011, 2014
-- cocos-2dx : 2012
+- [Cocos2d-x](http://www.cocos2d-x.org/) : 2012
 - asp, ASP.NET, MSSQL : 2014 ~ 2016
 - automatic control(IOT? Home Automation? Ubiquitous? What!? ) : 2008 ~ 2010 
 	- www.crestron.com : crestron korea, Senior Engineer
