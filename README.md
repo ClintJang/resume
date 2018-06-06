@@ -1,6 +1,21 @@
 # Resume
 
-## 1. Career
+## 1. Personal Details
+### Email
+	jang.wangsu@gmail.com
+	
+## 2. Summary
+### Interests
+	- Free and open source software. (September 2017 ~ )
+	- iOS Development
+	- Block Chain Technology
+	- I like learning new and unfamiliar skills.
+### Skills
+	- Languages: Swift, Objective-C, android, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
+	- Mobile Development: iOS
+	- Databases: MSSQL
+   
+## 3. Career
 ### automatic control : March 2008 ~ 2010 
 > IOT? Home Automation? Ubiquitous? What!?
 - [www.crestron.com](https://www.crestron.com/) : crestron korea, Senior Engineer
@@ -21,7 +36,7 @@
 
 <br /><br />
 
-## 2. Portfolio
+## 4. Portfolio
 
 ? ..
 What should I write down?
