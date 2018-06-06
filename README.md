@@ -43,7 +43,7 @@
 > chacares : The company that develops among the affiliated companies of Cha Hospital
 
 ### Oct 2016 ~ now : etc
-> freelance 
+> freelance : iOS development
 
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
 
