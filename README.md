@@ -16,10 +16,10 @@
 	- Databases: MSSQL
    
 ## 3. Career
-### March 2008 ~ 2010 : automatic control
-> IOT? Home Automation? Ubiquitous? What!?
+### March 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
+> automatic control.. IOT? Home Automation? Ubiquitous? What!?
 
-	- [www.crestron.com](https://www.crestron.com/) : crestron korea, Senior Engineer
+	-  : crestron korea, Senior Engineer
 	- Role: R & D, distributor and dealer management, technical support
 	- I wanted to be a mobile developer, so I left Crestron.
 
