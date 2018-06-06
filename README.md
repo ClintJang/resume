@@ -19,7 +19,7 @@
 ### March 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
 > automatic control.. IOT? Home Automation? Ubiquitous? What!?
 
-	-  : crestron korea, Senior Engineer
+	- crestron korea, Senior Engineer
 	- Role: R & D, distributor and dealer management, technical support
 	- I wanted to be a mobile developer, so I left Crestron.
 
