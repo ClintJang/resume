@@ -42,8 +42,8 @@
 ### 2014 ~ 2016 : asp, ASP.NET, MSSQL
 > chacares : The company that develops among the affiliated companies of Cha Hospital
 
-### etc
-> freelance
+### Oct 2016 ~ now : etc
+> freelance 
 
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
 
