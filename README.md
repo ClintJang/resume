@@ -3,7 +3,8 @@
 ## 1. Personal Details
 ### Email
 	jang.wangsu@gmail.com
-	
+<br /><br />	
+
 ## 2. Summary
 ### Interests
 	- Free and open source software. (September 2017 ~ )
@@ -14,6 +15,7 @@
 	- Languages: Swift, Objective-C, android, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
 	- Mobile Development: iOS
 	- Databases: MSSQL
+<br /><br /> 
    
 ## 3. Career
 ### March 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
