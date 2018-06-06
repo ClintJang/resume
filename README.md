@@ -37,7 +37,7 @@
 > btbsolution, chacares
 
 ### 2012 : [Cocos2d-x](http://www.cocos2d-x.org/)
-> wideforce
+> wideforce : Japanese mobile development and game development company
 
 ### 2014 ~ 2016 : asp, ASP.NET, MSSQL
 > chacares : The company that develops among the affiliated companies of Cha Hospital
