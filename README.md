@@ -42,9 +42,11 @@
 ### 2014 ~ 2016 : asp, ASP.NET, MSSQL
 > chacares : The company that develops among the affiliated companies of Cha Hospital
 
-### Oct 2016 ~ now : etc
+### Oct 2016 ~ 2018 : iOS (swift, objc)
 > freelance : iOS development
 
+### Aug 2018 ~ now : react native, swift
+> btcc korea : mobile
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
 
 <br /><br />
