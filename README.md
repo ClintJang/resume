@@ -47,6 +47,7 @@
 
 ### Aug 2018 ~ now : react native, swift
 > btcc korea : mobile
+
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
 
 <br /><br />
