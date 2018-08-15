@@ -66,8 +66,12 @@
 What should I write down?
 
 | Project Name |    Period    |  Customer | Skill | ETC |
-|--------------|:------------:|:---------:|:-----:|----:|
+|-----------------|:---------------:|:------------:|:--------:|-------:|
 | Health Project |2017.09 ~ 2018.07| AIA, SK |swift|git, <br />confluence, <br />jira, <br />agile |
-| H.Point |2017.07 ~ 09| Hyundai |objc|git|
-| writing.. | |   | | |
+| [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc|git|
+| [The H-Only](https://itunes.apple.com/us/app/%ED%98%84%EB%8C%80%EC%B0%A8%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-the-h-on-ly/id1226211218?mt=8) |2017.04 ~ 06| HYUNDAI MOTOR SECURITIES | objc | TCP/IP |
+| [SHP](https://itunes.apple.com/kr/app/shp/id1073101936?mt=8) | 2016.10 ~ 2017.03 | HOTEL SHILLA | objc | svn |
+|  |   |  | | |
+|  |   |  | | |
+
 ... Slowly writing
