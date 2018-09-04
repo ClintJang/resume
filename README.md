@@ -52,7 +52,7 @@
 ### Oct. 2016 ~ 2018 : iOS (swift, objc)
 > freelance : iOS development
 
-### Aug. 2018 ~ now : react native, swift
+### Aug. 2018 ~ now : react native
 > btcc korea : mobile
 
 ### ETC
@@ -66,11 +66,26 @@
 What should I write down?
 
 | Project Name |    Period    |  Customer | Skill | ETC |
-|-----------------|:---------------:|:------------:|:--------:|-------:|
-| Health Project |2017.09 ~ 2018.07| AIA, SK |swift|git, <br />confluence, <br />jira, <br />agile |
+|-----------------|:---------------:|:------------:|:--------:|-----------:|
+| [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK |swift|git, <br />confluence, <br />jira, <br />agile |
 | [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc|git|
 | [The H-Only](https://itunes.apple.com/us/app/%ED%98%84%EB%8C%80%EC%B0%A8%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-the-h-on-ly/id1226211218?mt=8) |2017.04 ~ 06| HYUNDAI MOTOR SECURITIES | objc | TCP/IP |
 | [SHP](https://itunes.apple.com/kr/app/shp/id1073101936?mt=8) | 2016.10 ~ 2017.03 | HOTEL SHILLA | objc | svn |
+| CHA Hosptal sites <br /> renewal & build <br />[http://en.chaum.net](http://en.chaum.net)<br />[http://m.chaum.net/](http://m.chaum.net/)<br />[http://seoul.m.chamc.co.kr/](http://seoul.m.chamc.co.kr/) <br /> and admin site| 2016.04 ~ 10 | CHA Medical Group | ASP.NET, MSSQL | TFS |
+| Bundang CHA General Health Center [iOS](https://itunes.apple.com/kr/app/bundangchabyeong-won-jonghabgeongangjeungjinsenteo/id1081717677?mt=8) / [android](https://play.google.com/store/apps/details?id=kr.co.chahealth.bundang&hl=ko) App | 2015.12 ~ 2016.03 | Bundang CHA Hosptal | swift, java, asp, MSSQL | TFS |
+| [Cha Hospital Paramedic SITE](http://www.chamedic.com/) New Development / Maintenance | 2014.12 ~ 2015.12  | CHA Biotech | asp, MSSQL, Visual Basic, VBScript | - |
+| Open ICT healing platform based on personal health information (government task) | 2014.09 ~ 11 | Chacares, ETRI | android, ASP.NET, MSSQL | svn, TFS |
+| VOC(voice of customer) Site | 2014.06 ~ 9 | Bundang CHA Hosptal | ASP.NET, MSSQL | TFS |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
+|  |   |  | | |
 |  |   |  | | |
 |  |   |  | | |
 
