@@ -52,7 +52,7 @@
 ### Oct. 2016 ~ 2018 : iOS (swift, objc)
 > freelance : iOS development
 
-### Aug. 2018 ~ now : react native
+### Aug. 2018 ~ now : [React Native](https://facebook.github.io/react-native/)
 > btcc korea : mobile
 
 ### ETC
