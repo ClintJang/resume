@@ -76,10 +76,10 @@ What should I write down?
 | [Cha Hospital Paramedic SITE](http://www.chamedic.com/) New Development / Maintenance | 2014.12 ~ 2015.12  | CHA Biotech | asp, MSSQL, Visual Basic, VBScript | - |
 | Open ICT healing platform based on personal health information (government task) | 2014.09 ~ 11 | Chacares, ETRI | android, ASP.NET, MSSQL | svn, TFS |
 | VOC(voice of customer) Site | 2014.06 ~ 9 | Bundang CHA Hosptal | ASP.NET, MSSQL | TFS |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
+| Security Camera iOS App Build and MDM Solution Maintenance | 2014.04 ~ 05 | Samsung SDS | objc, android| |
+| [N Wallet](https://itunes.apple.com/kr/app/n-wallet/id492190784?mt=8) iOS Maintenance | 2014.02 ~ 3 | Hana Financial Group | objc |  |
+| [Lotte Department store](https://itunes.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90-lotte-department-store/id785952884?mt=8) iOS App Build | 2013.07 ~ 2014.01  | Lotte Department store | objc | svn |
+| Nateon Biz B To B iOS App | 2013.04 ~ 06 | SK Comms | objc | svn |
 |  |   |  | | |
 |  |   |  | | |
 |  |   |  | | |
