@@ -80,6 +80,13 @@ What should I write down?
 | [N Wallet](https://itunes.apple.com/kr/app/n-wallet/id492190784?mt=8) iOS Maintenance | 2014.02 ~ 3 | Hana Financial Group | objc |  |
 | [Lotte Department store](https://itunes.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EB%B0%B1%ED%99%94%EC%A0%90-lotte-department-store/id785952884?mt=8) iOS App Build | 2013.07 ~ 2014.01  | Lotte Department store | objc | svn |
 | Nateon Biz B To B iOS App | 2013.04 ~ 06 | SK Comms | objc | [PB Works](http://www.pbworks.com/), svn |
+| NQ (Card Collection Game) | 2012.12 ~ 2013.03 | Nextory inc (Japan) | [cocos2d-x](http://www.cocos2d-x.org/) | svn |
+| FateZero <br /> (Visual Novel Game) | 2012.08 ~ 2013.03 | Nextory inc (Japan) | cocos2d-x | svn |
+| Mobi-Book <br /> (e-book viewer) | 2012.07 ~ 2013.01  | SmartEBo ok(Japan) | objc | [Mercurial](https://ko.wikipedia.org/wiki/%EB%A8%B8%ED%81%90%EB%A6%AC%EC%96%BC) |
+| Power Management / Web Site (OLE Server) | 2012.04 ~ 06 |  Korea Electric Power Corporation | [springframework](https://spring.io/), [mongodb](https://www.mongodb.com/) | svn |
+| OllehTalk2  <br />(Chat, Cafe) | 2011.11 ~ 2012.03  | KT | objc | svn |
+| Kibot 2 <br />(Introduction, video, puzzle, psychological test,pdf) | 2011.10 ~ 11  | KT | objc | svn |
+| Hynic Groupware | 2011.09 ~ 10 | Hynix | objc | svn |
 |  |   |  | | |
 |  |   |  | | |
 |  |   |  | | |
