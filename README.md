@@ -86,14 +86,10 @@ What should I write down?
 | Power Management / Web Site (OLE Server) | 2012.04 ~ 06 |  Korea Electric Power Corporation | [springframework](https://spring.io/), [mongodb](https://www.mongodb.com/) | svn |
 | OllehTalk2  <br />(Chat, Cafe) | 2011.11 ~ 2012.03  | KT | objc | svn |
 | Kibot 2 <br />(Introduction, video, puzzle, psychological test,pdf) | 2011.10 ~ 11  | KT | objc | svn |
-| Hynic Groupware | 2011.09 ~ 10 | Hynix | objc | svn |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-|  |   |  | | |
-
-... Slowly writing
+| Hynic iPhone Groupware | 2011.09 ~ 10 | Hynix | objc | svn |
+| Hyundai motor iPhone Groupware | 2011.08 ~ 10  | HYUNDAI MOTOR | objc | svn |
+| GS Caltex iPadGroupware | 2011.04 ~ 07 | GS Caltex | objc | svn |
+| maintenance (I can't remember that) | 2011.01? ~ 03?  | ? | [PhoneGap](https://phonegap.com/) | svn |
+| LG Android Phone OS's SMS/MMS | 2010.11 ~ 01? | LG Electronics | android | svn |
+| [하철이](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc | svn |
+| [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | samsung, microsoft, ETRI, .. etc | C#, C, crestron lang | |
