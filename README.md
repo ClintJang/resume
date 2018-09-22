@@ -90,5 +90,5 @@
 | GS Caltex iPadGroupware | 2011.04 ~ 07 | GS Caltex | objc | svn |
 | maintenance (I can't remember that) | 2011.02? ~ 04?  | ? | [PhoneGap](https://phonegap.com/) | svn |
 | LG Android Phone OS's SMS/MMS | 2010.11 ~ 03? | LG Electronics | android | svn |
-| [하철이](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc |  |
-| [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | samsung, microsoft, ETRI, .. etc | C#, C, crestron lang | |
+| [하철이(subway app)](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc |  |
+| [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | samsung, microsoft, ETRI, .. etc | C#, C, [CTI](https://www.crestron.com/Training-Events/Training) ... | |
