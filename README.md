@@ -16,9 +16,9 @@
 	- Block Chain Technology
 	- I like learning new and unfamiliar skills.
 ### Skills
-	- Languages: Swift, Objective-C, android, React-Native, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
+	- Languages: Swift, Objective-C, android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
 	- Mobile Development: iOS
-	- Databases: MSSQL
+	- Databases: MSSQL, sqlite
 <br /><br /> 
    
 ## 3. Career
