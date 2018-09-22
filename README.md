@@ -30,7 +30,7 @@
 	- I wanted to be a mobile developer, so I left Crestron.
 
 ### 2010 ~ now : iOS
-> danalsoft, btbsolution, wideforce, ion-communications, chacares, BTCC korea
+> danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/)
 
 	- swift : September 2017 ~ now
 	- exception : iOS 7.0 ~ 9.0
@@ -47,13 +47,13 @@
 > wideforce : Japanese mobile development and game development company
 
 ### 2014 ~ 2016 : asp, ASP.NET, MSSQL
-> chacares : The company that develops among the affiliated companies of Cha Hospital
+> [chacares](http://www.chacarescorp.com/) : The company that develops among the affiliated companies of Cha Hospital
 
 ### Oct. 2016 ~ 2018 : iOS (swift, objc)
 > freelance : iOS development
 
-### Aug. 2018 ~ now : [React Native](https://facebook.github.io/react-native/)
-> btcc korea : mobile
+### Aug. 2018 ~ now : [React Native](https://facebook.github.io/react-native/), swift
+> [BTCC Korea](https://btcckorea.com/) : mobile
 
 ### ETC
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
@@ -62,8 +62,7 @@
 
 ## 4. Portfolio
 
-? ..
-What should I write down?
+> What should I write down?<br /> I did not take notes on my personal projects or small projects.
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
@@ -89,7 +88,7 @@ What should I write down?
 | Hynic iPhone Groupware | 2011.09 ~ 10 | Hynix | objc | svn |
 | Hyundai motor iPhone Groupware | 2011.08 ~ 10  | HYUNDAI MOTOR | objc | svn |
 | GS Caltex iPadGroupware | 2011.04 ~ 07 | GS Caltex | objc | svn |
-| maintenance (I can't remember that) | 2011.01? ~ 03?  | ? | [PhoneGap](https://phonegap.com/) | svn |
-| LG Android Phone OS's SMS/MMS | 2010.11 ~ 01? | LG Electronics | android | svn |
-| [하철이](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc | svn |
+| maintenance (I can't remember that) | 2011.02? ~ 04?  | ? | [PhoneGap](https://phonegap.com/) | svn |
+| LG Android Phone OS's SMS/MMS | 2010.11 ~ 03? | LG Electronics | android | svn |
+| [하철이](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc |  |
 | [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | samsung, microsoft, ETRI, .. etc | C#, C, crestron lang | |
