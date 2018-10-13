@@ -66,6 +66,7 @@
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
+| ₿? Project | 2018.08 ~ | BTCC | [React-Native](https://facebook.github.io/react-native/) | Redmine, <br /> git, <br /> [gitlab](https://about.gitlab.com) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |
 | [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc|git|
 | [The H-Only](https://itunes.apple.com/us/app/%ED%98%84%EB%8C%80%EC%B0%A8%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-the-h-on-ly/id1226211218?mt=8) |2017.04 ~ 06| HYUNDAI MOTOR SECURITIES | objc | TCP/IP |
@@ -91,4 +92,4 @@
 | maintenance (I can't remember that) | 2011.02? ~ 04?  | ? | [PhoneGap](https://phonegap.com/) | svn |
 | LG Android Phone OS's SMS/MMS | 2010.11 ~ 03? | LG Electronics | android | svn |
 | [하철이(subway app)](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc |  |
-| [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | samsung, microsoft, ETRI, .. etc | C#, C, [CTI](https://www.crestron.com/Training-Events/Training) ... | |
+| [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | crestron, samsung, microsoft, ETRI, .. etc | C#, C, [CTI](https://www.crestron.com/Training-Events/Training) ... | |
