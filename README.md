@@ -60,7 +60,12 @@
 
 <br /><br />
 
-## 4. Portfolio
+## 4. Other Activities
+#### October 20th, 2018
+[2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/), a community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
+
+
+## 5. Portfolio
 
 > What should I write down?<br /> I did not take notes on my personal projects or small projects.
 
