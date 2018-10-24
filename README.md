@@ -64,6 +64,7 @@
 #### October 20th, 2018
 [2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/), a community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
 
+<br /><br />
 
 ## 5. Portfolio
 
