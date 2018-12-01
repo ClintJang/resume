@@ -62,7 +62,10 @@
 
 ## 4. Other Activities
 #### October 20th, 2018
-[2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/), a community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
+- [2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
+	- A community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
+	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
+	- It was my first challenge, but it was fun.
 
 <br /><br />
 
@@ -72,7 +75,7 @@
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| ₿? Project | 2018.08 ~ | BTCC | [React-Native](https://facebook.github.io/react-native/) | Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
+| ₿? Project | 2018.08 ~ | BTCC | [React-Native](https://facebook.github.io/react-native/), objc | Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |
 | [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc|git|
 | [The H-Only](https://itunes.apple.com/us/app/%ED%98%84%EB%8C%80%EC%B0%A8%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-the-h-on-ly/id1226211218?mt=8) |2017.04 ~ 06| HYUNDAI MOTOR SECURITIES | objc | TCP/IP |
