@@ -75,7 +75,8 @@
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| ₿? Project | 2018.08 ~ | BTCC | [React-Native](https://facebook.github.io/react-native/), objc | Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
+| ₿? Project | 2018.12 ~ | BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), <br /> git, Redmine|
+| BTCC KOREA Exchange App <br />[iOS](https://itunes.apple.com/kr/app/%EB%B9%84%ED%8B%B0%EC%94%A8%EC%94%A8/id1436466570), &nbsp; [android](https://play.google.com/store/apps/details?id=com.btcckorea) | 2018.08 ~ | BTCC | [React-Native](https://facebook.github.io/react-native/), objc | Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |
 | [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc|git|
 | [The H-Only](https://itunes.apple.com/us/app/%ED%98%84%EB%8C%80%EC%B0%A8%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C-the-h-on-ly/id1226211218?mt=8) |2017.04 ~ 06| HYUNDAI MOTOR SECURITIES | objc | TCP/IP |
