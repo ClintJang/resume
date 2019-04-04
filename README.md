@@ -61,6 +61,16 @@
 <br /><br />
 
 ## 4. Other Activities
+> I am very happy to share my thoughts and knowledge.
+
+#### March 30, 2019
+- [2019 - let us: Go! Spring](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
+	- A community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
+	- Speeker : [RxFlow 시작하기 (Getting started with RxFlow)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be)
+	- It was my second challenge and I enjoyed sharing my experience.
+
+	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
+
 #### October 20, 2018
 - [2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
 	- A community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
@@ -69,14 +79,6 @@
 
 	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
 
-
-#### March 30, 2019
-- [2019 - let us: Go! Spring](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
-	-A community for iOS developers in Korea. Kakao Talk's iOS Open Chat.
-	- Speeker : [RxFlow 시작하기 (Getting started with RxFlow)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be)
-	- It was my second challenge and I enjoyed sharing my experience.
-
-	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
 
 <br /><br />
 

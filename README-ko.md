@@ -65,13 +65,7 @@
 <br /><br />
 
 ## 4. 기타 활동
-#### 2018년 10월 20일
-- [2018 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
-	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
-	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
-	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
-
-	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
+> 자신의 생각과 지식을 나누는걸 굉장히 즐거운 일입니다.
 
 #### 2019년 03월 30일
 - [2019 - let us: Go! 봄](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
@@ -80,6 +74,14 @@
 	- 두번째 도전이였고, 경험을 공유해서 즐거웠습니다.
 
 	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
+	
+#### 2018년 10월 20일
+- [2018 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
+	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
+	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
+	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
+
+	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
 
 
 <br /><br />
