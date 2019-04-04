@@ -1,5 +1,5 @@
 # 이력서
-> 개발을 즐기고 있습니다. ☺️
+> 개발하는 것을 즐기는 개발자입니다. ☺️
 
 ## 1. 개인 정보
 ### 이메일
@@ -11,13 +11,13 @@
 
 ## 2. 요약
 ### 관심
-	- Free 및 open source software에 관심이 있습니다.
+	- Free 및 Open Source Software에 관심이 있습니다.
 		- 2017.09 부터
-	- iOS 개발
+	- iOS 개발 (Swift, RxSwift)
 	- Block Chain Technology
 	- 신 기술에 대한 호기심이 많습니다.
 ### 스킬
-	- Languages: Swift, Objective-C, android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
+	- Languages: Swift, Objective-C, android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, c, c++
 	- Mobile Development: iOS
 	- Databases: MSSQL, sqlite
 <br /><br /> 
@@ -69,7 +69,18 @@
 - [2018 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
 	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
 	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
-	- 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
+	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
+
+	<img width="100" src="/Image/let_us_go_2018_fall.jpeg"></img>
+
+#### 2019년 03월 30일
+- [2019 - let us: Go! 봄](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
+	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
+	- Speeker : [RxFlow 시작하기 (Getting started with RxFlow)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be)
+	- 두번째 도전이였고, 경험을 공유해서 즐거웠습니다.
+
+	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
+
 
 <br /><br />
 
