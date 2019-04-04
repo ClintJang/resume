@@ -71,7 +71,7 @@
 	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
 	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
 
-	<img width="100" src="/Image/let_us_go_2018_fall.jpeg"></img>
+	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
 
 #### 2019년 03월 30일
 - [2019 - let us: Go! 봄](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
