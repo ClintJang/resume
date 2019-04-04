@@ -67,7 +67,7 @@
 	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
 	- It was my first challenge, but it was fun.
 
-	<img width="100" src="/Image/let_us_go_2018_fall.jpeg"></img>
+	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
 
 
 #### March 30, 2019
