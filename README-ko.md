@@ -74,7 +74,7 @@
 	- 저에겐 제가 경험한 프리랜서 직업에 대해 이야기 하고 공유하는 즐거운 시간이였습니다.
 	- 참고 자료 : https://github.com/ClintJang/awesome-freelance-korea-information
 
-	<img width="100" src="/Image/let_us_go_2019_summer.jpeg"></img>
+	<img width="100" src="/Image/let_us_go_2019_summer.jpg"></img>
 
 #### 2019년 03월 30일
 - [2019 - let us: Go! 봄](https://iosdevkor.github.io/let_us_go_2019_spring_review/)

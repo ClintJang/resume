@@ -70,7 +70,7 @@
 	- Thinking of Freelancing? ..
  	- It was a great time talking to iOS developers about freelancer jobs.
  	
- 	<img width="100" src="/Image/let_us_go_2019_summer.jpeg"></img>
+ 	<img width="100" src="/Image/let_us_go_2019_summer.jpg"></img>
 
 
 #### March 30, 2019
