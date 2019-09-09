@@ -13,10 +13,11 @@
 ### Interests
 	- Free and open source software. (September 2017 ~ )
 	- iOS Development
-	- Block Chain Technology
 	- I like learning new and unfamiliar skills.
+	- Chitchat makes my day.
+
 ### Skills
-	- Languages: Swift, Objective-C, android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
+	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
 	- Mobile Development: iOS
 	- Databases: MSSQL, sqlite
 <br /><br /> 
@@ -59,6 +60,15 @@
 
 ## 4. Other Activities
 > I am very happy to share my thoughts and knowledge.
+
+#### August 3, 2019
+- [2019 - let us: Go! Summer](https://letusgo.app/)
+	- Speeker : [iOS 프리랜서 경험담 (iOS freelancer's experience story)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be), Track A 14:40 ~ 15:00
+		- [SlideShare link](https://www.slideshare.net/ClintJang/20190803-ios)
+	- This time! It's an iOS freelancer's story.
+	- It was my third challenge.
+	- Thinking of Freelancing? ..
+ 	- It was a great time talking to iOS developers about freelancer jobs.
 
 #### March 30, 2019
 - [2019 - let us: Go! Spring](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
@@ -115,3 +125,9 @@
 | LG Android Phone OS's SMS/MMS<br />(LG Optimus series) | 2010.11 ~ 2011.03? | LG Electronics | android | svn |
 | [하철이(subway app)](https://www.youtube.com/watch?v=KwOIdjmW0pc), Failed projects | 2010.05 ~ 2010.11 | danasoft | objc |  |
 | [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | crestron, samsung, microsoft, ETRI, .. etc | C#, C, [CTI](https://www.crestron.com/Training-Events/Training) ... | |
+
+## 5. Certificate
+- Engineer Information Processing(정보처리기사) : 2016. 07
+- Industrial Engineer Information Processing(정보처리산업기사) : 2005. 03
+- Craftsman Information Processing(정보처리기능사) : 2001. 05
+- JLPT Level 3 : 2009. 01

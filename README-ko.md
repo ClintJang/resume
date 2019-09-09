@@ -14,10 +14,11 @@
 	- Free 및 Open Source Software에 관심이 있습니다.
 		- 2017.09 부터
 	- iOS 개발 (Swift, RxSwift)
-	- Block Chain Technology
 	- 신 기술에 대한 호기심이 많습니다.
+	- 대화(수다 떠는 것)하는 것을 좋아합니다.
+
 ### 스킬
-	- Languages: Swift, Objective-C, android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, c, c++
+	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, c, c++
 	- Mobile Development: iOS
 	- Databases: MSSQL, sqlite
 <br /><br /> 
@@ -54,7 +55,7 @@
 ### 2018년 8월 ~ 2019 : [React Native](https://facebook.github.io/react-native/), swift
 > [BTCC Korea](https://btcckorea.com/) : 세계 최초 거래소로 유명했었습니다.
 
-- React Native 개발과 iOS 네이티브 개발을 병행개발하였습니다.
+- React Native 개발과 iOS 네이티브 개발을 병행 개발하였습니다.
 
 ### ETC
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
@@ -63,19 +64,30 @@
 
 ## 4. 기타 활동
 > 자신의 생각과 지식을 나누는걸 굉장히 즐거운 일입니다.
+ 
+#### 2019년 08월 03일
+- [2019 - let us: Go! 여름](https://letusgo.app/)
+	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
+	- speeker : [iOS 프리랜서로 산다는 것]() : iOS 개발자로써의 프리랜서 경험담
+  		- [SlideShare link](https://www.slideshare.net/ClintJang/20190803-ios)
+	- 3번째 도전이였고, 기술적인 내용은 아니였습니다.
+	- 저에겐 제가 경험한 프리랜서 직업에 대해 이야기 하고 공유하는 즐거운 시간이였습니다.
+	- 참고 자료 : https://github.com/ClintJang/awesome-freelance-korea-information
 
 #### 2019년 03월 30일
 - [2019 - let us: Go! 봄](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
 	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
 	- Speeker : [RxFlow 시작하기 (Getting started with RxFlow)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be)
+ 		- [SlideShare link](https://www.slideshare.net/ClintJang/getting-started-with-rxflow)
 	- 두번째 도전이였고, 경험을 공유해서 즐거웠습니다.
-
+		
 	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
 	
 #### 2018년 10월 20일
 - [2018 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
 	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
 	- Speeker : [React-Native 도전 후기 (React-Native Challenge)](https://www.youtube.com/watch?v=Ko5XanZmxFo&feature=youtu.be)
+  		- [SlideShare link](https://www.slideshare.net/ClintJang/20181020-swift-reactnative)
 	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
 
 	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
@@ -119,3 +131,9 @@
 | LG Android Phone OS's SMS/MMS<br />(LG Optimus series) | 2010.11 ~ 2011.03? | LG Electronics | android | svn |
 | [하철이(subway app)](https://www.youtube.com/watch?v=KwOIdjmW0pc) 그리고 실패한 프로젝트들 | 2010.05 ~ 2010.11 | danasoft | objc |  |
 | [korea crestron projects and R&D](https://www.crestron.com/) | 2008.03 ~ 2010.05 | crestron, samsung, microsoft, ETRI, .. etc | C#, C, [CTI](https://www.crestron.com/Training-Events/Training) ... | |
+
+## 5. 자격사항
+- 정보처리기사 : 2016. 07
+- 정보처리산업기사 : 2005. 03
+- 정보처리기능사 : 2001. 05
+- JLPT 3급 : 2009. 01
