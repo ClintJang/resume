@@ -63,12 +63,15 @@
 
 #### August 3, 2019
 - [2019 - let us: Go! Summer](https://letusgo.app/)
-	- Speeker : [iOS 프리랜서 경험담 (iOS freelancer's experience story)](https://www.youtube.com/watch?v=udqzq0vHpv0&feature=youtu.be), Track A 14:40 ~ 15:00
+	- Speeker : [iOS 프리랜서 경험담 (iOS freelancer's experience story)](https://www.youtube.com/watch?v=1QlneFvP0K8&feature=youtu.be), Track A 14:40 ~ 15:00
 		- [SlideShare link](https://www.slideshare.net/ClintJang/20190803-ios)
 	- This time! It's an iOS freelancer's story.
 	- It was my third challenge.
 	- Thinking of Freelancing? ..
  	- It was a great time talking to iOS developers about freelancer jobs.
+ 	
+ 	<img width="100" src="/Image/let_us_go_2019_summer.jpeg"></img>
+
 
 #### March 30, 2019
 - [2019 - let us: Go! Spring](https://iosdevkor.github.io/let_us_go_2019_spring_review/)
