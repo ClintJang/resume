@@ -31,8 +31,8 @@
 	- Role: R & D, distributor and dealer management, technical support
 	- 모바일 개발이 하고 싶어서, 크레스트론을 떠났습니다.
 
-### 2010 ~ now : iOS 개발
-> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/)
+### 2010년 5월 ~ now : iOS 개발
+> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/), [aptner](https://www.aptner.com/)
 
 	- swift : September 2017 ~ now
 	- exception : iOS 7.0 ~ 9.0
@@ -40,19 +40,19 @@
 	- iOS 3.0 부터 개발을 시작했습니다.
 	- 메인으로 개발할 때도 있었고, 유지보수를 할 때도 있었고 잠시 다른 개발을 할 때도 있었습니다.
 
-### 2011, 2014 : android
+### 2011년, 2014년 : android
 > btbsolution, chacares
 
     - 정부과제
     - MMS application of LG Optimus series의 모바일 단말에서 MMS/SMS 어플을 개발했었습니다.
 
-### 2012 : [Cocos2d-x](http://www.cocos2d-x.org/)
+### 2012년 : [Cocos2d-x](http://www.cocos2d-x.org/)
 > wideforce : Japanese 향 모바일 게임 개발을 했었습니다.
 
-### 2014 ~ 2016 : asp, ASP.NET, MSSQL
+### 2014년 ~ 2016년 : asp, ASP.NET, MSSQL
 > [chacares](http://www.chacarescorp.com/) : 차병원 계열의 계열사입니다.
 
-### 2018년 8월 ~ 2019 : [React Native](https://facebook.github.io/react-native/), swift
+### 2018년 8월 ~ 2019년 초 : [React Native](https://facebook.github.io/react-native/)
 > [BTCC Korea](https://btcckorea.com/) : 세계 최초 거래소로 유명했었습니다.
 
 - React Native 개발과 iOS 네이티브 개발을 병행 개발하였습니다.
@@ -65,6 +65,31 @@
 ## 4. 기타 활동
 > 자신의 생각과 지식을 나누는걸 굉장히 즐거운 일입니다.
  
+#### 2019년 11월 16일
+- [2019 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
+	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
+	- speeker : [Swift가 좋아요](https://youtu.be/aqmf7YPyUsQ) : 잡스런? 개발자에서 Swift 개발자로 정착하며 느낀점에 대한 경험담
+  		- [SlideShare link](https://www.slideshare.net/ClintJang/20191116-swift)
+	- 4번째 도전이였고, 기술적인 내용은 아니였습니다.
+	- 제가 좋아하는 Swift에 대해 많은 생각을 해보고, 공유해보는 즐거운 시간이였습니다.
+
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_00.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_01.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_02.jpg"></img></td>
+		</tr>
+	</table>
+
+#### 2019년 11월 12일
+- [Let's Swift 2019, Seoul, Korea](http://letswift.kr/2019/)
+	- 2016년 11개의 세션이 열렸던 첫 LetSwift 의 2019년 iOS 세미나
+	- MC : TEA TIME 시간 중 "🍵 iOS 프리랜서 생활 초" 진행, 13:00 - 13:50
+	- 프리랜서 직업에 대해 함께 대화/소통/질의응답 하는 즐거운 시간 이였음
+	
+	<img width="100" src="/Image/letswift_2019_freelance_life.jpg"></img>
+
+
 #### 2019년 08월 03일
 - [2019 - let us: Go! 여름](https://letusgo.app/)
 	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
@@ -103,8 +128,10 @@
 
 | 프로젝트 명 |    기간    |  고객사 | 사용한 기술 | 기타 |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| ?의 고도화 앱 | 2019.06 ~ 09 | ? | swift | MVP, <br />redmine |
-| ?의 유지보수  | 2019.06 ~ 09 | ? | objc (MRC) | redmine |
+| ? 프로젝트 | 2019.10 ~ | Aptner | swift | ReactorKit, RxFlow, <br />Redmine, git |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 | 2019.10 ~ | Aptner | objc (ARC) | confluence, git |
+| [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [하프클럽](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) 차세대 | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
+| [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) 앱 유지보수 <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
 | BTCC KOREA 거래소 앱<br />iOS 네이티브 버전 | 2018.12 ~ 2019.05| BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), <br /> git, Redmine|
 | BTCC KOREA 거래소 앱<br />구축 및 유지보수 <br />[iOS](https://itunes.apple.com/kr/app/%EB%B9%84%ED%8B%B0%EC%94%A8%EC%94%A8/id1436466570), &nbsp; [android](https://play.google.com/store/apps/details?id=com.btcckorea) | 2018.08 ~ 2019.05| BTCC | [React-Native](https://facebook.github.io/react-native/), objc  (ARC)| Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |

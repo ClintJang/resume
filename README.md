@@ -31,7 +31,7 @@
 	- I wanted to be a mobile developer, so I left Crestron.
 
 ### 2010 ~ now : iOS (swift, objc)
-> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/)
+> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/), [aptner](https://www.aptner.com/)
 
 	- swift : September 2017 ~ now
 	- exception : iOS 7.0 ~ 9.0
@@ -50,7 +50,7 @@
 ### 2014 ~ 2016 : asp, ASP.NET, MSSQL
 > [chacares](http://www.chacarescorp.com/) : The company that develops among the affiliated companies of Cha Hospital
 
-### Aug. 2018 ~ 2019 : [React Native](https://facebook.github.io/react-native/), swift
+### Aug. 2018 ~ Early 2019 : [React Native](https://facebook.github.io/react-native/)
 > [BTCC Korea](https://btcckorea.com/) : mobile
 
 ### ETC
@@ -61,6 +61,30 @@
 ## 4. Other Activities
 > I am very happy to share my thoughts and knowledge.
 
+#### November 16, 2019
+- [2019 - let us: Go! fall](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
+	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.
+	- speeker : [I like Swift](https://youtu.be/aqmf7YPyUsQ) : Miscellaneous? Experiences from how you settled down as a Swift developer.
+  		- [SlideShare link](https://www.slideshare.net/ClintJang/20191116-swift)
+	- It was the fourth challenge, not technical content.
+	- It was a good time to think about and share my favorite Swift.
+
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_00.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_01.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_02.jpg"></img></td>
+		</tr>
+	</table>
+
+#### November 12, 2019
+- [Let's Swift 2019, Seoul, Korea](http://letswift.kr/2019/)
+	- LetSwift's 2019 iOS Seminar was held with 11 sessions in 2016
+	- MC : "🍵 iOS Freelance Life" during TEA TIME, 13:00 - 13:50
+	- It was a great time to communicate and answer questions about the freelance job.
+	
+	<img width="100" src="/Image/letswift_2019_freelance_life.jpg"></img>
+	
 #### August 3, 2019
 - [2019 - let us: Go! Summer](https://letusgo.app/)
 	- Speeker : [iOS 프리랜서 경험담 (iOS freelancer's experience story)](https://www.youtube.com/watch?v=1QlneFvP0K8&feature=youtu.be), Track A 14:40 ~ 15:00
@@ -98,8 +122,10 @@
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| New App of ? | 2019.06 ~ 09 | ? | swift | MVP, <br />redmine |
-| ? Maintenance  | 2019.06 ~ 09 | ? | objc (MRC) | redmine |
+| ? project | 2019.10 ~ | Aptner | swift | ReactorKit, RxFlow, <br />Redmine, git |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) Maintenance | 2019.10 ~ | Aptner | objc (ARC) | confluence, git |
+| Advanced Project of [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [halfclub](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
+| [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) Maintenance <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
 | BTCC KOREA Exchange App Native Project | 2018.12 ~ 2019.05 | BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), <br /> git, Redmine|
 | BTCC KOREA Exchange App <br />[iOS](https://itunes.apple.com/kr/app/%EB%B9%84%ED%8B%B0%EC%94%A8%EC%94%A8/id1436466570), &nbsp; [android](https://play.google.com/store/apps/details?id=com.btcckorea) | 2018.08 ~ 2019.05 | BTCC | [React-Native](https://facebook.github.io/react-native/), objc (ARC) | Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |
