@@ -75,9 +75,9 @@
 
 	<table>
 		<tr>
-			<td><img width="100" src="/Image/let_us_go_2019_fall_00.jpg"></img></td>
-			<td><img width="100" src="/Image/let_us_go_2019_fall_01.jpg"></img></td>
-			<td><img width="100" src="/Image/let_us_go_2019_fall_02.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_00.jpeg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_01.jpeg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_02.jpeg"></img></td>
 		</tr>
 	</table>
 
