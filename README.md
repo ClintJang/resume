@@ -24,7 +24,7 @@
    
 ## 3. Career
 
-<img width="800" src="/Image/career_00_40.jpeg"></img>
+<img width="800" src="/Image/career_00_40.jpg"></img>
 
 ### Mar. 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
 > automatic control.. IOT? Home Automation? Ubiquitous? What!?

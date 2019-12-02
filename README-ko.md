@@ -25,7 +25,7 @@
    
 ## 3. 경력
 
-<img width="800" src="/Image/career_00_40.jpeg"></img>
+<img width="800" src="/Image/career_00_40.jpg"></img>
 
 ### 2008년 3월 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
 > 자동 제어, IOT? 홈 자동제어? 유비쿼터스? What!?
