@@ -23,6 +23,9 @@
 <br /><br /> 
    
 ## 3. Career
+
+<img width="800" src="/Image/career_00_40.jpeg"></img>
+
 ### Mar. 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
 > automatic control.. IOT? Home Automation? Ubiquitous? What!?
 
@@ -59,12 +62,13 @@
 <br /><br />
 
 ## 4. Other Activities
-> I am very happy to share my thoughts and knowledge.
+> Preparing for a presentation is too much for me to handle 😭.. <br />
+but I feel satisfied with sharing my thoughts and knowledge..
 
 #### November 16, 2019
 - [2019 - let us: Go! fall](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
 	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.
-	- speeker : [I like Swift](https://youtu.be/aqmf7YPyUsQ) : Miscellaneous? Experiences from how you settled down as a Swift developer.
+	- speeker : [I like Swift](https://youtu.be/aqmf7YPyUsQ), Miscellaneous? Experiences from how you settled down as a Swift developer.
   		- [SlideShare link](https://www.slideshare.net/ClintJang/20191116-swift)
 	- It was the fourth challenge, not technical content.
 	- It was a good time to think about and share my favorite Swift.
