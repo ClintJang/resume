@@ -14,7 +14,7 @@
 	- Free and open source software. (September 2017 ~ )
 	- iOS Development
 	- I like learning new and unfamiliar skills.
-	- Chitchat makes my day.
+	- Chit-chat makes my day.
 
 ### Skills
 	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
@@ -27,18 +27,17 @@
 <img width="800" src="/Image/career_00_40.jpg"></img>
 
 ### Mar. 2008 ~ 2010 : [www.crestron.com](https://www.crestron.com/) 
-> automatic control.. IOT? Home Automation? Ubiquitous? What!?
+> Automatic control.. IOT? Home Automation? Ubiquitous? What!?
 
-	- crestron korea, Senior Engineer
+	- Crestron Korea, Senior Engineer
 	- Role: R & D, distributor and dealer management, technical support
 	- I wanted to be a mobile developer, so I left Crestron.
 
 ### 2010 ~ now : iOS (swift, objc)
 > freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/), [aptner](https://www.aptner.com/)
 
-	- swift : September 2017 ~ now
-	- exception : iOS 7.0 ~ 9.0
-		- During this period, I did other web development.
+	- Swift : September 2017 ~ now
+		- exception : iOS 7.0 ~ 9.0 | During this period, I did other web development.
 	- I started development with iOS 3.0.
 	- I developed it as a main job and sometimes maintenance.
 
@@ -57,7 +56,7 @@
 > [BTCC Korea](https://btcckorea.com/) : mobile
 
 ### ETC
-	- etc skill : c#, springframework, mongodb, etc .. : a little..
+	- etc skill : c, c#, springframework, mongodb, etc .. : a little..
 
 <br /><br />
 
@@ -68,7 +67,7 @@ but I feel satisfied with sharing my thoughts and knowledge..
 #### November 16, 2019
 - [2019 - let us: Go! fall](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
 	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.
-	- speeker : [I like Swift](https://youtu.be/aqmf7YPyUsQ), Miscellaneous? Experiences from how you settled down as a Swift developer.
+	- speeker : [I like Swift](https://youtu.be/aqmf7YPyUsQ), Miscellaneous? Experiences of how you settled down as a Swift developer.
   		- [SlideShare link](https://www.slideshare.net/ClintJang/20191116-swift)
 	- It was the fourth challenge, not technical content.
 	- It was a good time to think about and share my favorite Swift.
@@ -108,7 +107,12 @@ but I feel satisfied with sharing my thoughts and knowledge..
 		- [SlideShare link](https://www.slideshare.net/ClintJang/getting-started-with-rxflow)
 	- It was my second challenge and I enjoyed sharing my experience.
 
-	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2019_spring_00.jpeg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_spring_01.jpeg"></img></td>
+		</tr>
+	</table>
 
 #### October 20, 2018
 - [2018 - let us: Go! Fall](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
@@ -117,8 +121,12 @@ but I feel satisfied with sharing my thoughts and knowledge..
 		- [SlideShare link](https://www.slideshare.net/ClintJang/20181020-swift-reactnative)
 	- It was my first challenge, but I felt pleasure..
 
-	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
-
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2018_fall_00.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2018_fall_01.jpeg"></img></td>
+		</tr>
+	</table>
 
 <br /><br />
 
@@ -128,8 +136,9 @@ but I feel satisfied with sharing my thoughts and knowledge..
 
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| ? project | 2019.10 ~ | Aptner | swift | ReactorKit, RxFlow, <br />Redmine, git |
-| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) Maintenance | 2019.10 ~ | Aptner | objc (ARC) | confluence, git |
+|?|?|?|?|?|
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(2nd version with legacy and new features added) | 2019.10 ~ | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) Maintenance | 2019.10 ~ 2020.06 | Aptner | objc (ARC) | confluence, git |
 | Advanced Project of [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [halfclub](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) Maintenance <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
 | BTCC KOREA Exchange App Native Project | 2018.12 ~ 2019.05 | BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), <br /> git, Redmine|

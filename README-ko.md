@@ -11,9 +11,8 @@
 
 ## 2. 요약
 ### 관심
-	- Free 및 Open Source Software에 관심이 있습니다.
-		- 2017.09 부터
-	- iOS 개발 (Swift, RxSwift)
+	- 오픈 소스 소프트웨어 및 커뮤니티에 2017.09 부터 크게 관심을 가지기 시작했습니다.
+	- iOS 개발 기술을 익히는 데 특히 관심이 많습니다.
 	- 신 기술에 대한 호기심이 많습니다.
 	- 대화(수다 떠는 것)하는 것을 좋아합니다.
 
@@ -111,7 +110,12 @@
  		- [SlideShare link](https://www.slideshare.net/ClintJang/getting-started-with-rxflow)
 	- 두번째 도전이였고, 경험을 공유해서 즐거웠습니다.
 		
-	<img width="100" src="/Image/let_us_go_2019_spring.jpeg"></img>
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2019_spring_00.jpeg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_spring_01.jpeg"></img></td>
+		</tr>
+	</table>
 	
 #### 2018년 10월 20일
 - [2018 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2018_fall_review/)
@@ -120,7 +124,12 @@
   		- [SlideShare link](https://www.slideshare.net/ClintJang/20181020-swift-reactnative)
 	- 떨리고.. 부끄러웠지만, 첫 도전이였고, 재미있었습니다.
 
-	<img width="100" src="/Image/let_us_go_2018_fall.jpg"></img>
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/let_us_go_2018_fall_00.jpg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2018_fall_01.jpeg"></img></td>
+		</tr>
+	</table>
 
 
 <br /><br />
@@ -131,7 +140,8 @@
 
 | 프로젝트 명 |    기간    |  고객사 | 사용한 기술 | 기타 |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-| ? 프로젝트 | 2019.10 ~ | Aptner | swift | ReactorKit, RxFlow, <br />Redmine, git |
+|?|?|?|?|?|
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(기존 버전과 새로운 버전을 포함한 프로젝트) | 2019.10 ~ | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
 | [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 | 2019.10 ~ | Aptner | objc (ARC) | confluence, git |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [하프클럽](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) 차세대 | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) 앱 유지보수 <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
