@@ -73,9 +73,9 @@ but I feel satisfied with sharing my thoughts and knowledge..
 
 	<table>
 		<tr>
-			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
-			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
-			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.jpeg"></img></td>
+			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
+			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.png"></img></td>
 		</tr>
 	</table>
 	
