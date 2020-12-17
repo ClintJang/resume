@@ -80,7 +80,7 @@ but I feel satisfied with sharing my thoughts and knowledge..
 	</table>
 	
 #### August 15, 2020
-- [2020 - let us: Go! 여름](https://let-us-go-2020-summer.vercel.app/)
+- [2020 - let us: Go! Summer](https://let-us-go-2020-summer.vercel.app/)
 	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.
 	- [Panel Discussion](https://www.youtube.com/watch?v=i0FMti8pOsk&feature=youtu.be) : "New developer, looking for someone like this." 4 iOS developers shared their opinions on the theme and participated in the YouTube live broadcast.
 	- 16:30 ~ 17:50, Participated as one of the panelists. 
@@ -168,7 +168,8 @@ but I feel satisfied with sharing my thoughts and knowledge..
 | Project Name |    Period    |  Customer | Skill | ETC |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
 |?|?|?|?|?|
-| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(2nd version with legacy and new features added) | 2019.10 ~ | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) Maintenance, Advancement <br />(2nd version with legacy and new features added) | 2020.06 ~ | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />Slack, Figma, Trello |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(2nd version with legacy and new features added) | 2019.10 ~ 2020.06 | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
 | [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) Maintenance | 2019.10 ~ 2020.06 | Aptner | objc (ARC) | confluence, git |
 | Advanced Project of [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [halfclub](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) Maintenance <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
