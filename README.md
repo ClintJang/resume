@@ -64,6 +64,36 @@
 > Preparing for a presentation is too much for me to handle 😭.. <br />
 but I feel satisfied with sharing my thoughts and knowledge..
 
+#### December 09, 2020
+- Vocational lecture, all about development that software developers say
+	- Suji High School. For the first and second graders, we had time to learn about the job of a software developer.
+	- I pre-recorded (60 minutes) because of the COVID-19. 
+	- It was a good time to introduce my students to the job of developer and to look back on my job.
+	- As I was in parallel with my work, I felt lack of preparation, and I felt a lot of regret for not having direct communication with students.
+
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.jpeg"></img></td>
+		</tr>
+	</table>
+	
+#### August 15, 2020
+- [2020 - let us: Go! 여름](https://let-us-go-2020-summer.vercel.app/)
+	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.
+	- [Panel Discussion](https://www.youtube.com/watch?v=i0FMti8pOsk&feature=youtu.be) : "New developer, looking for someone like this." 4 iOS developers shared their opinions on the theme and participated in the YouTube live broadcast.
+	- 16:30 ~ 17:50, Participated as one of the panelists. 
+	- It was a great time to discuss together and reflect on my attitude at the time of my first job enrollment.
+	- iOS development is great!!
+
+	<table>
+		<tr>
+			<td><img width="200" src="/Image/let_us_go_2020_summer01.jpeg"></img></td>
+			<td><img width="200" src="/Image/let_us_go_2020_summer02.jpeg"></img></td>
+		</tr>
+	</table>
+
 #### November 16, 2019
 - [2019 - let us: Go! fall](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
 	- Korean iOS Developer Community. Kakao Talk's iOS Open Chat Seminar.

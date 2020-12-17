@@ -66,7 +66,37 @@
 
 ## 4. 기타 활동
 > 자신의 생각과 지식을 나누는걸 굉장히 즐거운 일입니다.
- 
+
+#### 2020년 12월 09일
+- 직업특강, SW개발자가 말하는 개발의 모든 것
+	- 수지고등학교. 1~2학년 대상으로 소프트웨어 개발자의 직업에 대해 알아보는 시간을 가졌습니다.
+	- 코로나19로 인해 사전 녹화 (60분) 로 진행하였습니다. 
+	- 학생들에게 개발자란 직업을 소개하며, 저의 직업에 대해 다시 돌아본 유익한 시간이였습니다. 
+	- 업무와 병행하다보니 준비가 부족함을 느꼈고, 직접 소통하는 시간이 없는 부분은 많은 아쉬움으로 남았습니다.
+
+	<table>
+		<tr>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.jpeg"></img></td>
+		</tr>
+	</table>
+	
+#### 2020년 8월 15일
+- [2020 - let us: Go! 여름](https://let-us-go-2020-summer.vercel.app/)
+	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
+	- [패널토크](https://www.youtube.com/watch?v=i0FMti8pOsk&feature=youtu.be) : "신입 개발자, 이런 사람 찾아요." 를 주제로 iOS 개발자 4명이 의견을 나누며, 유튜브 라이브 방송에 참여하였습니다.
+	- 16:30 ~ 17:50, 패널 중 한명으로 참여하였습니다. 
+	- 함께 토론하며, 신입 때의 마음가짐을 저도 돌이켜 보며 많은 자극이 된 시간이였습니다. 
+	- 역시 iOS 개발이 짱이다.!!
+
+	<table>
+		<tr>
+			<td><img width="200" src="/Image/let_us_go_2020_summer01.jpeg"></img></td>
+			<td><img width="200" src="/Image/let_us_go_2020_summer02.jpeg"></img></td>
+		</tr>
+	</table>
+
 #### 2019년 11월 16일
 - [2019 - let us: Go! 가을](https://iosdevkor.github.io/let_us_go_2019_fall_review/)
 	- 한국 iOS 개발자 커뮤니티. Kakao Talk의 iOS 오픈 채팅 세미나 입니다.
@@ -80,6 +110,7 @@
 			<td><img width="100" src="/Image/let_us_go_2019_fall_00.jpeg"></img></td>
 			<td><img width="100" src="/Image/let_us_go_2019_fall_01.jpeg"></img></td>
 			<td><img width="100" src="/Image/let_us_go_2019_fall_02.jpeg"></img></td>
+			<td><img width="100" src="/Image/let_us_go_2019_fall_03.JPG"></img></td>
 		</tr>
 	</table>
 
