@@ -7,19 +7,27 @@
 
 ### 블로그
 	https://medium.com/@jang.wangsu
+
 <br /><br />
 
 ## 2. 요약
-### 관심
+### 저는..
 	- 오픈 소스 소프트웨어 및 커뮤니티에 2017.09 부터 크게 관심을 가지기 시작했습니다.
 	- iOS 개발 기술을 익히는 데 특히 관심이 많습니다.
 	- 신 기술에 대한 호기심이 많습니다.
 	- 대화(수다 떠는 것)하는 것을 좋아합니다.
 
 ### 스킬
-	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, c, c++
+	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, C, C++
 	- Mobile Development: iOS
 	- Databases: MSSQL, sqlite
+
+### 성격유형
+	
+- [ENFP-A, 2021년 1월 25일](/PDF/2021-0125-ENFP-A-16Personalities.pdf)
+	- 새로운 것에 호기심이 많아서, 일할 때는 우선 순위를 두고 순서대로 끝내면서 진행합니다.
+	- 디테일 한 부분을 놓치는 경향이 있어서, 항상 정리하고 체크하면서 진행 하려고 노력합니다.
+
 <br /><br /> 
    
 ## 3. 경력

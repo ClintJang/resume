@@ -7,6 +7,7 @@
 
 ### Blog
 	https://medium.com/@jang.wangsu
+
 <br /><br />
 
 ## 2. Summary
@@ -20,6 +21,13 @@
 	- Languages: Swift, Objective-C(ARC, MRC), android, React-Native, C#, asp.Net, asp, cocos2d-x, JavaScript, golang, c, c++
 	- Mobile Development: iOS
 	- Databases: MSSQL, sqlite
+
+### Personality Type
+	
+- [ENFP-A, January 25, 2021](https://www.16personalities.com/profiles/88526609a36fd)
+	- When I work, I give priority, finish with the highest priority, and try to move on to the next.
+	- I tend to miss out on details, so I always try to organize and check before proceeding.
+
 <br /><br /> 
    
 ## 3. Career
