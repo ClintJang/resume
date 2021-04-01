@@ -213,7 +213,8 @@ but I feel satisfied with sharing my thoughts and knowledge..
 <br /><br />
 
 ## 6. Certificate
-- Engineer Information Processing(정보처리기사) : 2016. 07
-- Industrial Engineer Information Processing(정보처리산업기사) : 2005. 03
-- Craftsman Information Processing(정보처리기능사) : 2001. 05
-- JLPT Level 3 : 2009. 01
+- [정보통신기술자 경력수첩(초급)](https://ictis.kica.or.kr/) : 2021.03.24
+- [Engineer Information Processing](http://www.hrdkorea.or.kr/) (정보처리기사) : 2016.07.15
+- [Industrial Engineer Information Processing](http://www.hrdkorea.or.kr/) (정보처리산업기사) : 2005.06.03
+- [Craftsman Information Processing](http://www.hrdkorea.or.kr/) (정보처리기능사) : 2001.07.16
+- [JLPT Level 3](https://www.jlpt.or.kr/) : 2009.01
