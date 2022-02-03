@@ -28,7 +28,13 @@
 	- When I work, I give priority, finish with the highest priority, and try to move on to the next.
 	- I tend to miss out on details, so I always try to organize and check before proceeding.
 
-<br /><br /> 
+### etc.
+
+- Vaccinated (COVID-19)
+ 	- Moderna : booster shot, 2021.11.08
+	- Janssen : 2021.06.11
+  
+  <br /><br /> 
    
 ## 3. Career
 
