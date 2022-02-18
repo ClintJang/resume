@@ -81,6 +81,23 @@
 ## 4. 기타 활동
 > 자신의 생각과 지식을 나누는 것은 굉장히 즐거운 것이라 생각합니다..
 
+#### 2021년 10월 경
+- IT 개발자 이야기, 직업강의
+- 수지 고등학교에 다시 강의할 기회가 생겼습니다.
+- 코로나 19로 인해 비대면 60분 강의를 진행했습니다.
+- 비대면은 어색했지만, 유익한 경험이 되었습니다.
+- 오른쪽 상단에 작은 얼굴이 보일거에요.
+- 😅 (자료는 전달했지만, 강의가 정상적으로 오픈 되었는 지는 모르겠습니다.)
+
+	<table>
+		<tr>
+			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-2021-01.jpeg"></img></td>
+			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-2021-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2021-03.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2021-04.jpeg"></img></td>
+		</tr>
+	</table>
+	
 #### 2020년 12월 09일
 - 직업특강, SW개발자가 말하는 개발의 모든 것
 	- 수지고등학교. 1~2학년 대상으로 소프트웨어 개발자의 직업에 대해 알아보는 시간을 가졌습니다.
@@ -90,9 +107,9 @@
 
 	<table>
 		<tr>
-			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
-			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
-			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.png"></img></td>
+			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-2020-01.jpeg"></img></td>
+			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-2020-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2020-03.png"></img></td>
 		</tr>
 	</table>
 	

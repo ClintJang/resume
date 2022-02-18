@@ -78,6 +78,23 @@
 > Preparing for a presentation is too much for me to handle 😭.. <br />
 but I feel satisfied with sharing my thoughts and knowledge..
 
+#### Around October, 2021
+- Vocational education, The Developer Story
+- I had the opportunity to teach again at Suji High School.
+- Due to COVID-19 Pandemic, I conducted a 60-minute non-face-to-face video recording lecture.
+- The non-face-to-face meeting was awkward, but it turned out to be a beneficial experience.
+- You will see a little face in the upper right corner.
+- 😅 (The material was delivered, but I don't know if the lecture was opened normally. )
+
+	<table>
+		<tr>
+			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-2021-01.jpeg"></img></td>
+			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-2021-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2021-03.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2021-04.jpeg"></img></td>
+		</tr>
+	</table>
+	
 #### December 09, 2020
 - Vocational lecture, all about development that software developers say
 	- Suji High School. For the first and second graders, we had time to learn about the job of a software developer.
@@ -87,9 +104,9 @@ but I feel satisfied with sharing my thoughts and knowledge..
 
 	<table>
 		<tr>
-			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-01.jpeg"></img></td>
-			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-02.jpeg"></img></td>
-			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-03.png"></img></td>
+			<td><img width="150" src="/Image/suji-high-school-vocational-special-lecture-2020-01.jpeg"></img></td>
+			<td><img width="80" src="/Image/suji-high-school-vocational-special-lecture-2020-02.jpeg"></img></td>
+			<td><img width="100" src="/Image/suji-high-school-vocational-special-lecture-2020-03.png"></img></td>
 		</tr>
 	</table>
 	
