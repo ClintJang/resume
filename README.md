@@ -24,9 +24,20 @@
 
 ### Personality Type
 	
-- [ENFP-A, January 25, 2021](https://www.16personalities.com/profiles/88526609a36fd)
+- [ENFP-A, July 20, 2022](https://www.16personalities.com/profiles/88526609a36fd)
 	- When I work, I give priority, finish with the highest priority, and try to move on to the next.
 	- I tend to miss out on details, so I always try to organize and check before proceeding.
+	
+	<table>
+		<tr>
+			<td>2021.01.25, ENFP-A</td>
+			<td>2022.07.20, ENFP-A</td>
+		</tr>
+		<tr>
+			<td><img width="150" src="/Image/MBTI/mbti-result-en-2021-01-25.pdf"></img></td>
+			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.pdf"></img></td>
+		</tr>
+	</table>
 
 ### etc.
 

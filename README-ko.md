@@ -24,9 +24,20 @@
 
 ### 성격유형
 	
-- [ENFP-A, 2021년 1월 25일](/PDF/2021-0125-ENFP-A-16Personalities.pdf)
+- [ENFP-A, 2022년 7월 20일](/PDF/2022-0720-ENFP-A-16Personalities.pdf)
 	- 새로운 것에 호기심이 많아서, 일할 때는 우선 순위를 두고 순서대로 끝내면서 진행합니다.
 	- 디테일 한 부분을 놓치는 경향이 있어서, 항상 정리하고 체크하면서 진행 하려고 노력합니다.
+
+	<table>
+		<tr>
+			<td>2021.01.25, ENFP-A</td>
+			<td>2022.07.20, ENFP-A</td>
+		</tr>
+		<tr>
+			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2021-01-25.pdf"></img></td>
+			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.pdf"></img></td>
+		</tr>
+	</table>
 
 ### 기타
 
