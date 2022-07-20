@@ -34,8 +34,8 @@
 			<td>2022.07.20, ENFP-A</td>
 		</tr>
 		<tr>
-			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2021-01-25.pdf"></img></td>
-			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.pdf"></img></td>
+			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2021-01-25.png"></img></td>
+			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.png"></img></td>
 		</tr>
 	</table>
 
