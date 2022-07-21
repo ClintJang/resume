@@ -28,6 +28,8 @@
 	- 새로운 것에 호기심이 많아서, 일할 때는 우선 순위를 두고 순서대로 끝내면서 진행합니다.
 	- 디테일 한 부분을 놓치는 경향이 있어서, 항상 정리하고 체크하면서 진행 하려고 노력합니다.
 
+	<br />
+	<details>
 	<table>
 		<tr>
 			<td>2021.01.25, ENFP-A</td>
@@ -38,6 +40,7 @@
 			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.png"></img></td>
 		</tr>
 	</table>
+	</details>
 
 ### 기타
 

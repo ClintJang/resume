@@ -28,6 +28,8 @@
 	- When I work, I give priority, finish with the highest priority, and try to move on to the next.
 	- I tend to miss out on details, so I always try to organize and check before proceeding.
 	
+	<br />
+	<details>
 	<table>
 		<tr>
 			<td>2021.01.25, ENFP-A</td>
@@ -38,6 +40,7 @@
 			<td><img width="150" src="/Image/MBTI/mbti-result-ko-2022-07-20.png"></img></td>
 		</tr>
 	</table>
+	</details>
 
 ### etc.
 
