@@ -65,7 +65,7 @@
 	- 모바일 개발이 하고 싶어서, 크레스트론을 떠났습니다.
 
 ### 2010년 5월 ~ now : iOS 개발
-> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/), [aptner](https://www.aptner.com/)
+> freelance, danalsoft, btbsolution, wideforce, ion-communications, [chacares](http://www.chacarescorp.com/), [BTCC Korea](https://btcckorea.com/), [아파트너](https://www.aptner.com/), [트러스테이](https://www.trustay.me/)
 
 	- swift : September 2017 ~ now
 	- exception : iOS 7.0 ~ 9.0
@@ -88,7 +88,7 @@
 ### 2018년 8월 ~ 2019년 초 : [React Native](https://facebook.github.io/react-native/)
 > [BTCC Korea](https://btcckorea.com/) : 세계 최초 거래소로 유명했었습니다.
 
-- React Native 개발과 iOS 네이티브 개발을 병행 개발하였습니다.
+- React Native 로 앱을 개발을 완료해서 오픈하고 이후 RN으로 유지보수 하면서 iOS 네이티브 개발(프로젝트 신규 개발)을 병행 개발하였습니다.
 
 ### ETC
 	- etc skill : c#, springframework, mongodb, etc .. : a little..
@@ -219,14 +219,17 @@
 
 | 프로젝트 명 |    기간    |  고객사 | 사용한 기술 | 기타 |
 |-----------------|:---------------:|:------------:|:--------:|-----------:|
-|?| 2022.03 ~ |?| swift | [Tuist](https://tuist.io/), ?|
-| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 및 고도화 <br />(기존 버전과 새로운 버전을 포함한 프로젝트) | 2020.06 ~ 2022.02 | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
-| [Aptner](https://play.google.com/store/apps/details?id=kr.co.azsmart.apartner&hl=ko&gl=US) Android App 유지보수 |2021.10 ~ 2022.01| Aptner | kotlin, Java | MVVM, Retrofit, OkHttp, Firebase, AndroidX, Hilt (DI), Glide (Image), Gson(Json Parser)|
-| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(기존 버전과 새로운 버전을 포함한 프로젝트) | 2019.10 ~ 2020.06 | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/) |
-| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 | 2019.10 ~ 2020.06 | Aptner | objc (ARC) | confluence, git |
+|?| ~ |?| ? | ?|
+|[홈노크](https://apps.apple.com/vg/app/%ED%99%88%EB%85%B8%ED%81%AC-%EB%B6%80%EB%8F%99%EC%82%B0-%ED%86%B5%ED%95%A9-%EC%9E%90%EC%82%B0-%EB%B0%8F-%EC%9E%84%EB%8C%80%EA%B4%80%EB%A6%AC/id1621422967) 유지보수| 2022.09 ~  | Trustay | swift | Tuist, RxSwift, RxFlow, ReactorKit, Firebase, AppsFlyer, Amplitude, Carthage, SwiftPM, Slack, JIRA, Figma, Bitbucket, Confluence, Zeplin, git|
+|[홈노크타운](https://apps.apple.com/us/app/%ED%99%88%EB%85%B8%ED%81%AC%ED%83%80%EC%9A%B4-%EC%A3%BC%EA%B1%B0%EC%83%9D%ED%99%9C-%ED%95%84%EC%88%98-%EC%95%B1/id1634616334) 구축 및 유지보수| 2022.03 ~ | Trustay | swift | Tuist, RxSwift, RxFlow, ReactorKit, [SwiftUI](https://developer.apple.com/kr/xcode/swiftui/), [TCA](https://github.com/pointfreeco/swift-composable-architecture), Firebase, AppsFlyer, Amplitude,  Carthage, SwiftPM, Swiftlint, Slack, JIRA, Figma, Bitbucket, Confluence, Zeplin, git|
+|[홈노크](https://apps.apple.com/vg/app/%ED%99%88%EB%85%B8%ED%81%AC-%EB%B6%80%EB%8F%99%EC%82%B0-%ED%86%B5%ED%95%A9-%EC%9E%90%EC%82%B0-%EB%B0%8F-%EC%9E%84%EB%8C%80%EA%B4%80%EB%A6%AC/id1621422967) 구축| 2022.03 ~ 2022.06 | Trustay | swift | [Tuist](https://tuist.io/), RxSwift, RxFlow, ReactorKit, Firebase, AppsFlyer, Amplitude, Carthage, SwiftPM, Slack, JIRA, Figma, Bitbucket, Confluence, Zeplin, git|
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 및 고도화 <br />(기존 버전과 새로운 버전을 포함한 프로젝트) | 2020.06 ~ 2022.02 | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, <br />Redmine, Swiftlint, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/), Gitlab |
+| [Aptner](https://play.google.com/store/apps/details?id=kr.co.azsmart.apartner&hl=ko&gl=US) Android App 유지보수 |2021.10 ~ 2022.01| Aptner | kotlin, Java | MVVM, Retrofit, OkHttp, Firebase, AndroidX, Hilt (DI), Glide (Image), Gson(Json Parser), Gitlab|
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) <br />(기존 버전과 새로운 버전을 포함한 프로젝트) | 2019.10 ~ 2020.06 | Aptner | swift (base project), objc (ARC) | ReactorKit, RxFlow, Swiftlint, <br />Redmine, git, <br />[Slack](https://slack.com/), [Figma](https://www.figma.com/), [Trello](https://trello.com/),[Gitlab](https://about.gitlab.com/) |
+| [Aptner](https://apps.apple.com/kr/app/%EC%95%84%ED%8C%8C%ED%8A%B8%EB%84%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EC%95%B1/id1243505765) 앱 유지보수 | 2019.10 ~ 2020.06 | Aptner | objc (ARC) | confluence, git, [Github](https://github.com/) |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885), [하프클럽](https://apps.apple.com/kr/app/%ED%95%98%ED%94%84%ED%81%B4%EB%9F%BD-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EB%A9%94%EA%B0%80%EC%87%BC%ED%95%91%EB%AA%B0/id687620483) 차세대 | 2019.06 ~ 09 | TRICYCLE | swift | MVP, <br />redmine |
 | [boribori](https://apps.apple.com/kr/app/%EB%B3%B4%EB%A6%AC%EB%B3%B4%EB%A6%AC-%EC%97%84%EB%A7%88%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%85%ED%9E%88%EB%8A%94-%EC%B0%A9%ED%95%9C%EA%B0%80%EA%B2%8C/id677072885) 앱 유지보수 <br /> (mobile shopping mall)  | 2019.06 ~ 09 | TRICYCLE | objc (MRC) | redmine |
-| BTCC KOREA 거래소 앱<br />iOS 네이티브 버전 | 2018.12 ~ 2019.05| BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), <br /> git, Redmine|
+| BTCC KOREA 거래소 앱<br />iOS 네이티브 버전 | 2018.12 ~ 2019.05| BTCC | swift | [RxSwift](https://github.com/ReactiveX/RxSwift), <br /> [ReactorKit](https://github.com/ReactorKit/ReactorKit), <br /> [Flux](https://facebook.github.io/flux/), <br /> [RxFlow](https://github.com/RxSwiftCommunity/RxFlow), Swiftlint, <br /> git, Redmine|
 | BTCC KOREA 거래소 앱<br />구축 및 유지보수 <br />[iOS](https://itunes.apple.com/kr/app/%EB%B9%84%ED%8B%B0%EC%94%A8%EC%94%A8/id1436466570), &nbsp; [android](https://play.google.com/store/apps/details?id=com.btcckorea) | 2018.08 ~ 2019.05| BTCC | [React-Native](https://facebook.github.io/react-native/), objc  (ARC)| Redmine, <br /> git, <br /> [Redux](https://redux.js.org/) |
 | [AIA Vitality x T건강걷기](https://itunes.apple.com/kr/app/aia-vitality-x-t%EA%B1%B4%EA%B0%95%EA%B1%B7%EA%B8%B0/id1410777831?mt=8) |2017.09 ~ 2018.07| AIA, SK T |swift|[git](https://git-scm.com/), <br />[confluence](https://ko.atlassian.com/software/confluence), <br />[jira](https://ko.atlassian.com/software/jira), <br />[agile](https://en.wikipedia.org/wiki/Agile_software_development) |
 | [H.Point](https://itunes.apple.com/kr/app/h-point-%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90%EA%B7%B8%EB%A3%B9/id1255389331?mt=8) |2017.06 ~ 08| Hyundai |objc (ARC)|git|
